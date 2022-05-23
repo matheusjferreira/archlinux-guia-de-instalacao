@@ -1,6 +1,6 @@
 > # Arch Linux - Guia de Instalacao
 
-> ## O projeto:
+> ## O Artigo:
 
 Guia de instalação do Arch Linux, e como instalar alguns programas e utilizar a AUR.
 
