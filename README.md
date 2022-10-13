@@ -7,7 +7,7 @@ Guia de instalação do Arch Linux, e como instalar alguns programas e utilizar 
 > ### O que é Arch Linux?
 Um sistema operacional altamente personalisado, minimalista e leve.
 
-Arch Linux é uma distribuição Linux para usuários avançados que buscam montar um sistema personalizado para uso específico, pois seu resultado refle o objetivo, gosto e estilo de seu usuário.
+Arch Linux é uma distribuição Linux para usuários avançados que buscam montar um sistema personalizado para uso específico, pois seu resultado reflete o objetivo, gosto e estilo de seu usuário.
 
 > ## Resultado:
 Utilizando Xfce:
